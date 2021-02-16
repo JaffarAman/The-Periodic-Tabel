@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.heading{
+    text-align: center;
+    background-color: yellow;
+}
+.heading h1 {
+    font-size: 50px;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    
+}
+/* .lowerTable{
+    width: 100%;
+} */
+table td{
+    width: 50px;
+    border: 1px solid black;
+    empty-cells: hide;
+    font-weight: bold;
+}
+.purple{
+    background: #DDA0DD;
+}
+.FF9966{
+    background: #FF9966;
+}
+.FFF28E{
+    background: #FFF28E;
+}
+.CDEB8B{
+    background: #CDEB8B;
+}
+.EBDCA9{
+    background: #EBDCA9;
+}
+.b90C7FF{
+    background: #90C7FF;
+}
+.C79810{
+    background: #C79810;
+}
+.E6E6FA{
+    background: #E6E6FA;
+}
+.FCEFF0{
+    background: #FCEFF0;
+}
+.fontblue{
+    color: #3124F5;
+}
+.fontred{
+    color: red;
+}
+.fontgreen{
+    /* color: #65863F; */
+    color: green;
+}
